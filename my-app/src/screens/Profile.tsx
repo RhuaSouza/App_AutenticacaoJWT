@@ -33,7 +33,7 @@ export default function Profile() {
         style: 'destructive',
         onPress: async () => {
           await AsyncStorage.removeItem('token');
-          setAuthenticated(false); // 🔥 ISSO resolve tudo
+          setAuthenticated(false); 
         },
       },
     ]);
