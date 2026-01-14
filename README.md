@@ -68,8 +68,4 @@ A aplicação é composta por uma **API em Node.js** e um **aplicativo mobile em
 - Injeta o `userId` na requisição
 - Bloqueia acesso caso o token seja inválido ou expirado
 
----
 
-## 🗂 Estrutura do Projeto
-
-### Backend
